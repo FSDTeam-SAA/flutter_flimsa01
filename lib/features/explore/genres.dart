@@ -14,7 +14,7 @@ class GenresScreen extends StatelessWidget {
   {"name": "Fantasy", "image": "assets/images/9.png"},
   {"name": "Horror", "image": "assets/images/10.png"},
   {"name": "Animation", "image": "assets/images/11.png"},
-  {"name": "Documentary", "image": "assets/images/33.png"},
+  {"name": "Documentary", "image": "assets/images/33.png"}, 
 ];
 
 
